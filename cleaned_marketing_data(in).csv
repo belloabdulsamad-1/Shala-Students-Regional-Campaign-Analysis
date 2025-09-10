@@ -1,0 +1,16 @@
+campaign ID,Campaign Name,Audience,Age,Geography,Reach,Impressions,Frequency,Clicks,Unique Clicks,Unique Link Clicks (ULC),Click-Through Rate (CTR in %),Unique Click-Through Rate (Unique CTR in %),Amount Spent in INR,Cost Per Click (CPC),Cost per Result (CPR)
+Campaign 2,Shu3_ (Students Apart From India And Us),Students,25-34,"Group 2 (Australia, Canada, United Kingdom, Ghana, Niger, Nigeria, Nepal, Pakistan, Thailand, Taiwan)",2066,2447,1.184414327,181,141,65,7.4,6.82,85.57,0.47,1.32
+Campaign 3,Shu_Students(Australia),Students,13-17,Australia,2271,2616,1.151915456,61,55,28,2.33,2.42,475.85,7.8,16.99
+Campaign 3,Shu_Students(Australia),Students,18-24,Australia,704,734,1.042613636,49,46,13,6.68,6.53,283.17,5.78,21.78
+Campaign 4,Shu_Students (Canada),Students,13-17,Canada,2330,3146,1.350214592,101,84,63,3.21,3.61,528.08,5.23,8.38
+Campaign 4,Shu_Students (Canada),Students,18-24,Canada,759,878,1.156785244,52,44,34,5.92,5.8,294.82,5.67,8.67
+Campaign 4,Shu_Students (Canada),Students,25-34,Canada,218,243,1.114678899,18,18,15,7.41,8.26,101.06,5.61,6.74
+Campaign 5,Shu_Students(Ghana),Students,25-34,Ghana,3717,4620,1.242937853,184,160,46,3.98,4.3,282.22,1.53,6.14
+Campaign 6,Shu_Students (India),Students,25-34,India,1721,1874,1.088901801,92,76,53,4.91,4.42,61.21,0.67,1.15
+Campaign 9,Shu_Students(Uae),Students,25-34,Uae,2892,3347,1.157330567,135,102,41,4.03,3.53,455.49,3.37,11.11
+Campaign 9,Shu_Students(Uae),Students,18-24,Uae,2862,3234,1.129979036,72,60,27,2.23,2.1,316.14,4.39,11.71
+Campaign 9,Shu_Students(Uae),Students,13-17,Uae,1579,2079,1.316656111,35,32,20,1.68,2.03,104.63,2.99,5.23
+Campaign 10,Shu_Students(Uk),Students,13-17,Uk,2557,2941,1.150175987,69,60,33,2.35,2.35,487.52,7.07,14.77
+Campaign 10,Shu_Students(Uk),Students,18-24,Uk,741,785,1.059379217,39,34,20,4.97,4.59,255.57,6.55,12.78
+Campaign 10,Shu_Students(Uk),Students,25-34,Uk,338,365,1.079881657,13,11,4,3.56,3.25,113.58,8.74,28.4
+Campaign 11,Shu_Students (Usa),Students,25-34,Usa,91,103,1.131868132,9,8,3,8.74,8.79,47.26,5.25,15.75
